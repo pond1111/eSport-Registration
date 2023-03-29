@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbO1DdAbnRlkLVFFYAB0pE4P4/cI4WYN9OTZYwH09TGBe/gV8R4bnIKXmKPKLhIx9tOBTCo9NsJ4kRC2vwGgVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pondt\\Downloads\\CIS_ESPORT-main\\CIS_ESPORT-main\\CISESPORT\\CISESPORT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pondt\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
